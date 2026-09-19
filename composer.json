@@ -1,0 +1,15 @@
+{
+    "name": "hyperf-php/lock",
+    "autoload": {
+        "psr-4": {
+            "Hyperf\\Lock\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "liming",
+            "email": "1628883533@qq.com"
+        }
+    ],
+    "require": {}
+}
